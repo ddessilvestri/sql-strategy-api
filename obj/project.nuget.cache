@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6soQSAiNh2I=",
+  "success": true,
+  "projectFilePath": "/Users/dsilvestri/Documents/personal/repos/sql-strategy-api/sql-strategy-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/dsilvestri/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",
+    "/Users/dsilvestri/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "/Users/dsilvestri/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
